@@ -32,6 +32,10 @@ a:visited {
     color: white;
 }
 
+.footer {
+    height: 100px;
+}
+
 img:hover {
     border: solid gold 4px;
 }
