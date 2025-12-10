@@ -44,4 +44,5 @@ img:hover {
     display: flex;
     justify-content: space-around;
     font-size: 1.2em;
+    border: solid red 2px;
 }
